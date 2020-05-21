@@ -1,0 +1,22 @@
+[
+    {
+        "id": "aHorseWithNoName",
+        "title": "A Horse With No Name",
+        "author": "America"
+    },
+    {
+        "id": "ghostRidersInTheSky",
+        "title": "Ghost riders in the sky",
+        "author": "Johny Cash"
+    },
+    {
+        "id": "roundabout",
+        "title": "Roundabout",
+        "author": "Yes"
+    },
+    {
+        "id": "sweetHomeAlabama",
+        "title": "Sweet Home Alabama",
+        "author": "Lynyrd Skynyrd"
+    }
+]
